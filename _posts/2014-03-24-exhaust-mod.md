@@ -12,7 +12,6 @@ author: andron83
 <figure class="half">
     <a href="/images/2014-03-24-01.jpg"><img src="/images/2014-03-24-01.jpg"></a>
     <a href="/images/2014-03-24-02.jpg"><img src="/images/2014-03-24-02.jpg"></a>
-    <figcaption></figcaption>
 </figure>
 
 Ступенька, да и капельки сварки просто сбить не удалось, похоже на полуавтомат обычный.
@@ -20,7 +19,6 @@ author: andron83
 <figure class="half">
     <a href="/images/2014-03-24-03.jpg"><img src="/images/2014-03-24-03.jpg"></a>
     <a href="/images/2014-03-24-04.jpg"><img src="/images/2014-03-24-04.jpg"></a>
-    <figcaption></figcaption>
 </figure>
 
 В общем я подумал, что нахрена такой перфоманс с тиаловской горячкой, ви банд, рогатым фулрасе и таким косячком))
