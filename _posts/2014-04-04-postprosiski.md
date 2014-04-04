@@ -11,3 +11,6 @@ author: andron83
     <a href="http://cs540105.vk.me/c540107/v540107879/98a1/TUtEIlFuNmU.jpg"><img src="http://cs540105.vk.me/c540107/v540107879/98a1/TUtEIlFuNmU.jpg"></a>
     </figure>
 Не смог. это жопа))
+
+НО
+    <a href="http://cs617117.vk.me/v617117544/60b8/gMuMNKEFRuI.jpg"><img src="http://cs617117.vk.me/v617117544/60b8/gMuMNKEFRuI.jpg"></a>
