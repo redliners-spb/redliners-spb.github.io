@@ -75,7 +75,6 @@ author: andron83
 - передний стабилизатор спек98 25 мм
 - задний стабилизатор спек98 23 мм
 - втулки подрамника Spoon rigit collar (белка стайл)
-- резина слики yoka 200|585|15, комплект TOYO R1R 195|55|15, 2 шт. Federal FZ-201 205|50|15
 
 Интерьер
 
@@ -103,7 +102,7 @@ author: andron83
 - диски Volk Racing TE37 R15 бронза 2 шт.
 - диски Weds TC-05 (ковка) R15 белые 2 шт.
 - диски Enkei RP-01 R15 белые 2 шт.
-
+- резина Yokohama 005 и 006, 200/565/15 
 
 Вообще концепция у автомобиля такова — никаких кричащих выпусков, обвесов, 
 при этом автомобиль должен обладать весьма серьезным потенциалом для колцевых тайматтак…
@@ -131,6 +130,7 @@ author: andron83
     <a href="http://cs310625.vk.me/v310625683/3736/RBuQnffUBPw.jpg"><img src="http://cs310625.vk.me/v310625683/3736/RBuQnffUBPw.jpg"></a>
     <a href="http://cs310625.vk.me/v310625683/375a/Oy-9BNBZiew.jpg"><img src="http://cs310625.vk.me/v310625683/375a/Oy-9BNBZiew.jpg"></a>
     <a href="http://cs416620.vk.me/v416620683/69b/Z7vjnp1po1g.jpg"><img src="http://cs416620.vk.me/v416620683/69b/Z7vjnp1po1g.jpg"></a>
+    <a href="http://cs310625.vk.me/v310625683/3763/28htwFHTik0.jpg"><img src="http://cs310625.vk.me/v310625683/3763/28htwFHTik0.jpg"></a>
 </figure>
 
 Начал я кататься с середины 2011 года сразу с Автодрома. 
