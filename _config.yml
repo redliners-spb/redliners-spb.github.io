@@ -35,9 +35,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: О команде
-    url: http://www.redliners.ru/spbteam/
-    external: true
+  - title: Блог команды
+    url: /team/
   - title: EG PRed pride
     url: /Andron83/
   - title: Time Attack CRX
