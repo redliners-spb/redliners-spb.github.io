@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /Andron83/
-title: All Posts
+title: EG PRed Pride
 tagline: EG PRed Pride
 tags: []
 category: Andron83

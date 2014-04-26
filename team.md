@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /team/
-title: All Posts
+title: Блог команды
 tagline: Блог команды
 tags: []
 category: team
